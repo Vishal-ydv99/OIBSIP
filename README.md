@@ -13,4 +13,5 @@ Task-3 :
 # Offer Letter from OASIS INFOBYTE
 
 
-https://www.linkedin.com/posts/vishal-yadav-98b8aa200_offer-letter-activity-7028323860252901376-5nhd?utm_source=share&utm_medium=member_desktop
+
+![image](https://user-images.githubusercontent.com/83835190/222778942-c2a482d8-cfd6-4a2e-9f13-7b10ba539386.png)
