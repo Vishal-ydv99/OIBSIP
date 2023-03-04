@@ -9,7 +9,7 @@ Task-1 : https://reliable-narwhal-ba4156.netlify.app/
 
 Task-2 :
 
-Task-3 :
+Task-3 : https://delightful-zabaione-6e9abd.netlify.app/
 
 
 # Offer Letter from OASIS INFOBYTE
